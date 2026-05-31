@@ -16,5 +16,7 @@ This blog is dedicated to the better understanding of the discipline through exp
 
 ## Phenomenology
 
+Due to my background, I have picked up some relatively exclusive perspective on the philosophy of mind.  
+
 - [Contradictions](/philosophy/the_contradiction/)
 

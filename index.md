@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Al-Cheng's Category
+title: al-Cheng's Category
 ---
 
 
 # Welcome
 
-This is an perspective, exploratory, and open-minded space that represents my professional profile.
+This is an perspective, exploratory, and open-minded space that represents my professional profile. 
 
 ---
 
