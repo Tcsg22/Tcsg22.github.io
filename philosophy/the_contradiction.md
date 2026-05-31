@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Fundamental Contradiction Between Subjectivity and Objectivity
-permalink: /philsophy/the_hard_problem/
+permalink: /philsophy/the_contradiction/
 ---
 
 What is subjectivity? And why is it that it contradicts with the objective world championed by the scientific and mathematical methods? How do we reconcile this fundamental contradiction? To answer these questions, we need to understand the phenomenology of subjectivity, and provide a precise and reasonable definition. For one thing, there is an inherent uniqueness in our experience with our own subjectivity. While the intuition is clear that being you is a phenomenon which is not replicable, it is hard, if not impossible, to extract precision out of this intuition. It is easy to conclude that such property is secondary in the generating process of consciousness. However, it is also the same intuition that underlies the so-called hard problem of consciousness – that simply the existing description does not align with our experience of consciousness at a fundamental level. 
