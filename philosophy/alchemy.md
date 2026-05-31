@@ -1,0 +1,3 @@
+One of the greatest hidden mystery of ancient civilisation is alchemy. For many people like me, we probably have gained our first impressions of alchemy in our chemistry class, or Full Metal Alchemist. If we quickly draw to the conclusion that this is a niche superstition originated in a paricular region around the Middle East, then we will miss out one of the most interesting gossips of the ancient world which exists prior to domination of mono-theistic religions and influenced the modern scientific revolution. In this essay, we will delve into the glorious past of alchemy, and why we discuss it in the philosophical page.
+
+

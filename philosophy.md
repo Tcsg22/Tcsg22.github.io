@@ -14,3 +14,7 @@ The philosophy of mind is still a real standing subject today. In my opinion, ul
 
 This blog is dedicated to the better understanding of the discipline through explorations. There are a few areas of interest that I would like to share via this platform, to share some unconventional, but existing perspectives on some aspects of philosophy including its content and its history. 
 
+## Phenomenology
+
+- [Contradictions](/philosophy/the_contradiction/)
+
